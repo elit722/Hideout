@@ -1,0 +1,1 @@
+{\n  "schemaVersion": 1,\n  "id": "com.elit722.hideout",\n  "version": "1.0.0",\n  "name": "Hideout",\n  "description": "A description for the Hideout mod.",\n  "authors": [\n    "elit722"\n  ],\n  "environment": "fabric",\n  "entrypoints": {\n    "main": [\n      "com.elit722.hideout.HideoutMod"\n    ]\n  },\n  "depends": {\n    "fabricloader": ">=0.11.0"\n  }\n}
